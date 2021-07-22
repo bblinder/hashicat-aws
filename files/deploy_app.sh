@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Hiss World!</h2></center>
-  Welcome to ${PREFIX}'s app. The voices tell me to burn things.
+  Welcome to ${PREFIX}'s app. We take no responsibilities for allergies.
   <!-- END -->
 
   </div>
